@@ -4,22 +4,26 @@
   <meta charset="utf-8">
   <title>Двухколоночный макет</title>
   <style>
+   .sidebar, .content, footer {
+    box-sizing: border-box; /* padding не влияет на ширину */
+    padding: 10px; /* Поля вокруг текста */
+   }
    .row {
     overflow: hidden; /* Отменяем обтекание */
    }
-   .sidebar, .content {
-    float: left; /* Формируем колонки */
-    box-sizing: border-box; /* padding не влияет на ширину */
-    padding: 10px; /* Поля вокруг текста */
-    min-height: 100px; /* Минимальная высота */
-   }
+   .sidebar, .content { min-height: 100px; }
    .sidebar {
-    width: 20%; /* Ширина колонки */
+    float: left; /* Формируем колонки */
+    width: 200px; /* Ширина колонки */
     background: #ffead0; /* Цвет фона */
    }
    .content {
-    width: 80%; /* Ширина колонки */
-    background: #c8eaf5; /* Цвет фона */
+    margin-left: 210px; /* Отступ слева */
+    background: #c8eaf5; /* Цвет фона */ 
+   }
+   footer {
+    background: #e2edc1; /* Цвет фона */
+    margin-top: 10px; /* Отступ сверху */
    }
   </style>
  </head>
@@ -28,5 +32,6 @@
    <section class="sidebar">Боковая панель</section>
    <section class="content">Содержимое</section>
   </div>
+  <footer>Подвал</footer>
  </body>
 </html>
