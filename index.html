@@ -1,1 +1,32 @@
-hello!
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Двухколоночный макет</title>
+  <style>
+   .row {
+    overflow: hidden; /* Отменяем обтекание */
+   }
+   .sidebar, .content {
+    float: left; /* Формируем колонки */
+    box-sizing: border-box; /* padding не влияет на ширину */
+    padding: 10px; /* Поля вокруг текста */
+    min-height: 100px; /* Минимальная высота */
+   }
+   .sidebar {
+    width: 20%; /* Ширина колонки */
+    background: #ffead0; /* Цвет фона */
+   }
+   .content {
+    width: 80%; /* Ширина колонки */
+    background: #c8eaf5; /* Цвет фона */
+   }
+  </style>
+ </head>
+ <body>
+  <div class="row">
+   <section class="sidebar">Боковая панель</section>
+   <section class="content">Содержимое</section>
+  </div>
+ </body>
+</html>
