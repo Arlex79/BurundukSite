@@ -1,0 +1,1 @@
+<footer role="contentinfo"><p>© Фридрих Кирилл, 2024</p></footer>
