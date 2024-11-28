@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!--#include file="/includes/head_default.inc" -->
+    <!--#include virtual="/includes/head_default.inc" -->
 </head>
 <body>
 <div id="page">
-    <!--#include file="/includes/header.inc" -->
-    <!--#include file="/includes/sidebar.inc" -->
+    <!--#include virtual="includes/header.inc" -->
+    <!--#include virtual="includes/sidebar.inc" -->
     <div id="content">
         <h2>Добро пожаловать!</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat mattis urna at commodo.
@@ -19,7 +19,7 @@
             consequat.</p>
     </div>
 
-    <!--#include file="/includes/footer.inc" -->
+    <!--#include virtual="includes/footer.inc" -->
 </div>
 </body>
 </html>
