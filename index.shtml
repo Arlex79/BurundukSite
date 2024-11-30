@@ -6,6 +6,7 @@
 </head>
 <body>
 <div id="page">
+    <div w3-include-html="includes/header.inc"></div>
     <!--#include file="includes/header.inc" -->
     <!--#include virtual="includes/sidebar.inc" -->
     <div id="content">
