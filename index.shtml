@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!--#include virtual="includes/head_default.inc" -->
+    <!--#include file="includes/head_default.inc" -->
 
 </head>
 <body>
 <div id="page">
-    <!--#include virtual="includes/header.inc" -->
+    <!--#include file="includes/header.inc" -->
     <!--#include virtual="includes/sidebar.inc" -->
     <div id="content">
         <h2>Добро пожаловать!</h2>
@@ -20,7 +20,7 @@
             consequat.</p>
     </div>
 
-    <!--#include virtual="includes/footer.inc" -->
+    <!--#include file="includes/footer.inc" -->
 </div>
 </body>
 </html>
