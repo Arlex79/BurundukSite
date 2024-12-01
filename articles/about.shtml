@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--#include file="/includes/head_default.inc" -->
+    <title>about page</title>
+</head>
+<body>
+<div id="page">
+    <!--#include file="" -->
+    <!--#include virtual="includes/sidebar.inc" -->
+    <div id="content">
+        <h2>О нас</h2>
+        <p>...</p>
+    </div>
+
+    <!--#include file="includes/footer.inc" -->
+</div>
+</body>
+</html>
