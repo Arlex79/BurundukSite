@@ -3,6 +3,7 @@ body {
     font-size: 100%;
     color: #FFF;
     background-color: #1F2733;
+    background-image: url();
     }
 
 #page {
@@ -16,9 +17,11 @@ header, #sidebar, #content,footer {
     //in-height: 100px;
     }
 
-a:link {
-    color: #0000CC;
+a {
+    color: #DDDDDD;
     }
+
+
 #sidebar ul.menu li {
     list-style: none;
     padding: 0;

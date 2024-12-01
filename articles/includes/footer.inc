@@ -1,1 +1,1 @@
-<footer role="contentinfo"><p></p></footer>
+<footer role="contentinfo"><p>(c) Kirill Fridrih</p></footer>
