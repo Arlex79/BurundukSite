@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!--#include file="includes/head_default.inc" -->
+    <!-- #include file="includes/head_default.inc" -->
     <title>Main</title>
 </head>
 <body>
 <div id="page">
-    <!--#include file="includes/header.inc" -->
-    <!--#include file="includes/sidebar.inc" -->
+    <!- -#include file="includes/header.inc" -->
+    <!-- #include file="includes/sidebar.inc" -->
     <div id="content">
         <h2>Main page of site</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat mattis urna at commodo.
@@ -19,7 +19,7 @@
             consectetur
             consequat.</p>
     </div>
-    <!--#include file="includes/footer.inc" -->
+    <!-- #include file="includes/footer.inc" -->
 </div>
 </body>
 </html>
