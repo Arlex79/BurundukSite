@@ -9,7 +9,7 @@
     <!--#include file="includes/header.inc" -->
     <!--#include file="includes/sidebar.inc" -->
     <div id="content">
-        <h2>Main page of site</h2>
+        <h2>Main page of site ____</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat mattis urna at commodo.
             Morbi velit magna, pulvinar et mi non, lacinia eleifend felis. Nulla orci ipsum, convallis et justo id,
             dignissim dapibus nunc. Proin vehicula ipsum sed nunc ultrices, sed volutpat lacus semper. Suspendisse ac
