@@ -40,7 +40,6 @@ def get_sourse_of_file(path_and_file, ssi_type='virtual'):
         path_from_curr_file = path_and_file.split('/')[:-1]
         file_name = path_and_file.split('/')[-1]
         path_from_curr_file = '/'.join(path_from_curr_file)
-        # print('path: ' + path_from_curr_file)
         path_as_virtual = f'{virtual_root_directory}/{path_from_curr_file}/{file_name}'
         end_path = path_as_virtual
 

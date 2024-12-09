@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--#include file="includes/head_default.inc" -->
+    <title>Main</title>
+</head>
+<body>
+<div id="page">
+    <!--#include file="includes/header.inc" -->
+    <!--#include file="includes/sidebar.inc" -->
+    <div id="content">
+        <h2>Статьи</h2>
+        <ul>
+            <li><a href="../articles/stih_pro_moscova.shtml">Стих про Рому Москова</a> </li>
+        </ul>
+    </div>
+    <!--#include file="includes/footer.inc" -->
+</div>
+</body>
+</html>

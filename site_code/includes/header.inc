@@ -1,1 +1,1 @@
-<header><h1>Title of site...</h1></header>
+<header><h1>Школа Бурундук</h1></header>

@@ -1,1 +1,3 @@
-<footer role="contentinfo"><p>(c) Kirill Fridrih</p></footer>
+<footer role="contentinfo">
+<p>(c) 2024 | Неофициальный сайт школы Бурундук</p>
+</footer>

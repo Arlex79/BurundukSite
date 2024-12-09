@@ -26,8 +26,12 @@ a {
 
 #sidebar ul.menu li {
     list-style: none;
-    padding: 0;
+    //padding: 0;
     text-indent: -40px}
+
+#sidebar ul.menu li a {
+    
+    }
 
 @media screen and (min-width: 520px) {
 #page {
@@ -48,13 +52,13 @@ header, #sidebar, #content, footer {
 
 #sidebar {
     float: left; /* Формируем колонки */
-    width: 26%; /* Ширина колонки */
+    width: 30%; /* Ширина колонки */
     margin-bottom: 1%; /* Отступ снизу */
     min-height: 150px
 
    }
 #content {
-    margin-left: 27%; /* Отступ слева */
+    margin-left: 31%; /* Отступ слева */
     margin-bottom: 1%; /* Отступ снизу */
     min-height: 150px
 
