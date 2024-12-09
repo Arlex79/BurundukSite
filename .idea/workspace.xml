@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e4af5e1-e2ac-497b-82ab-c28bae96dfab" name="Changes" comment="ssi_includer!">
-      <change afterPath="$PROJECT_DIR$/site_code/articles/stih_pro_moscova.shtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site_code/pages/articles.shtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site_code/pages/index.shtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site_code/pages/news.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_site/articles/about.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_site/articles/contact.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_site/articles/index.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_site/articles/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_site/includes/footer.inc" beforeDir="false" afterPath="$PROJECT_DIR$/public_site/includes/footer.inc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_site/includes/header.inc" beforeDir="false" afterPath="$PROJECT_DIR$/public_site/includes/header.inc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_site/includes/sidebar.inc" beforeDir="false" afterPath="$PROJECT_DIR$/public_site/includes/sidebar.inc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_code/articles/about.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/site_code/pages/about.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_code/articles/contact.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/site_code/pages/dev.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_code/articles/index.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_code/articles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/site_code/pages/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_code/includes/footer.inc" beforeDir="false" afterPath="$PROJECT_DIR$/site_code/includes/footer.inc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_code/includes/header.inc" beforeDir="false" afterPath="$PROJECT_DIR$/site_code/includes/header.inc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_code/includes/sidebar.inc" beforeDir="false" afterPath="$PROJECT_DIR$/site_code/includes/sidebar.inc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssi_includer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ssi_includer.py" afterDir="false" />
+    <list default="true" id="0e4af5e1-e2ac-497b-82ab-c28bae96dfab" name="Changes" comment="BurundukSite first commit">
+      <change beforePath="$PROJECT_DIR$/public_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +153,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733752624022</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="BurundukSite first commit">
+      <option name="closed" value="true" />
+      <created>1733754711933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733754711933</updated>
+    </task>
+    <task id="LOCAL-00008" summary="BurundukSite first commit">
+      <option name="closed" value="true" />
+      <created>1733754849546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733754849546</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +187,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="commit" />
     <MESSAGE value="ssi_includer!" />
-    <option name="LAST_COMMIT_MESSAGE" value="ssi_includer!" />
+    <MESSAGE value="BurundukSite first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="BurundukSite first commit" />
   </component>
 </project>
