@@ -1,9 +1,10 @@
 import re
 import shutil
 import os
-
-virtual_root_directory = 'public_site'.replace('\\', '/')
-
+from  time import sleep
+virtual_root_directory = 'PublicBurundukSchoolSite'.replace('\\', '/')
+public_dir = 'PublicBurundukSchoolSite'
+code_dir = 'CodeBurundukSchoolSite'
 
 def get_all_files_in_dir(dir):
     ls = []
@@ -21,14 +22,14 @@ def get_all_files_in_dir(dir):
 
     return ls
 
-print(get_all_files_in_dir('public_site'))
+print(get_all_files_in_dir(public_dir))
 
 
 
 
 def update_public_site():
-    source_dir = 'site_code'
-    destination_dir = 'public_site'
+    source_dir = code_dir
+    destination_dir = public_dir
 
     shutil.rmtree(destination_dir)
     shutil.copytree(source_dir, destination_dir)
@@ -86,11 +87,13 @@ def convert_ssi_in_file(path):
 
 def main():
     update_public_site()
-    shtml_files_pathes = get_all_files_in_dir('public_site')
+    shtml_files_pathes = get_all_files_in_dir(public_dir)
     for path_and_file in shtml_files_pathes:
         print(f"trying convert: {path_and_file}")
         convert_ssi_in_file(path_and_file)
 
 
 if __name__ == "__main__":
-    main()
+    while True:
+        main()
+        sleep(0.7)

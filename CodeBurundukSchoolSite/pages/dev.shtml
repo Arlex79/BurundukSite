@@ -2,15 +2,16 @@
 <html>
 <head>
     <!--#include file="includes/head_default.inc" -->
-    <title>Main</title>
+    <title>Contact</title>
 </head>
 <body>
 <div id="page">
     <!--#include file="includes/header.inc" -->
     <!--#include file="includes/sidebar.inc" -->
     <div id="content">
-        <h2>Main page of site ____LOL</h2>
-        <p>4444444445555</p>
+        <h2>О разроботчиках</h2>
+        <h3>Разработчики сайта:</h3>
+        <p><a href='https://t.me/a7r9x3'>Кирилл Фридрих</a></p>
     </div>
     <!--#include file="includes/footer.inc" -->
 </div>

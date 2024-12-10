@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e4af5e1-e2ac-497b-82ab-c28bae96dfab" name="Changes" comment="BurundukSite first commit">
-      <change beforePath="$PROJECT_DIR$/public_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/navbar.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/articles/stih_pro_moscova.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/articles/stih_pro_moscova.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/includes/footer.inc" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/footer.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/includes/head_default.inc" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/head_default.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/includes/header.inc" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/header.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/includes/sidebar.inc" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/sidebar.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/pages/about.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/about.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/pages/articles.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/articles.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/pages/dev.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/dev.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/pages/index.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/index.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/pages/news.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/news.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_site/pages/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/articles/stih_pro_moscova.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/articles/stih_pro_moscova.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/includes/footer.inc" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/footer.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/includes/head_default.inc" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/head_default.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/includes/header.inc" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/header.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/includes/sidebar.inc" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/sidebar.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/pages/about.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/about.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/pages/articles.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/articles.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/pages/dev.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/dev.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/pages/index.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/index.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/pages/news.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/news.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_code/pages/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssi_includer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ssi_includer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +64,24 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2pnuqyLTdorz77WjwUTa9rmg3y5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ssi_includer.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Kirill/Програмирование/HTML/BurundukSchoolSite/site_code/pages&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ssi_includer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Kirill/Програмирование/HTML/BurundukSchoolSite/site_code/pages",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Kirill\Програмирование\HTML\BurundukSchoolSite\site_code\pages" />
@@ -171,6 +202,9 @@
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.inc" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
