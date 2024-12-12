@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', 'Verdana', sans-serif;
-    font-size: 100%;
+    font-size: 110%;
     color: #FFF;
     background-color: #1F2733;
     background-image: url();
@@ -9,14 +9,10 @@ body {
 #page {
 
     }
-header, #sidebar, #content,footer {
+header, #sidebar, #content,footer, nav {
     background: #212830;
     border-radius: 6px;
     border: 1px double #3d444d;
-    }
-
-#sidebar, #content {
-    //in-height: 100px;
     }
 
 a {
@@ -29,8 +25,14 @@ a {
     //padding: 0;
     text-indent: -40px}
 
+nav ul {
+    list-style: none;
+    text-indent: -40px
+    }
 
-@media screen and (min-width: 520px) {
+
+@media screen and (min-width: 500px) {
+
 #page {
     background: #151B23;
     padding: 1%;
@@ -38,12 +40,29 @@ a {
     margin-top: 3%;
     margin-left: auto;
     margin-right: auto;
-    max-width: 800px;
+    max-width: 1000px;
     }
-header, #sidebar, #content, footer {
+header, #sidebar, #content, footer, #navigation {
     box-sizing: border-box;
     padding: 1%;
    }
+
+
+#navigation {
+
+    overflow: hidden;
+    margin-bottom: 1%
+}
+
+
+
+#navigation a {
+    float: left;
+    color: #FFF;
+    padding: 0 10px 0 10px;
+    text-decoration: none;
+}
+
 
 #sidebar {
     float: left;
@@ -61,17 +80,15 @@ header, #sidebar, #content, footer {
 footer {
    clear:both;
    margin-top: 1%;
-
-
    }
-header {
 
+header {
     margin-bottom: 1%;
    }
 }
 
-@media screen and (max-width: 521px) {
-header, #sidebar, #content, footer {
+@media screen and (max-width: 501px) {
+header, #sidebar, #content, footer, nav {
     box-sizing: border-box;
     padding: 10px;
     margin-top: 10px;

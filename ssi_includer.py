@@ -96,4 +96,4 @@ def main():
 if __name__ == "__main__":
     while True:
         main()
-        sleep(2)
+        sleep(0.5)
