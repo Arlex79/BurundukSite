@@ -5,28 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e4af5e1-e2ac-497b-82ab-c28bae96dfab" name="Changes" comment="navbar">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/articles/stih_pro_moscova.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/footer.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/head_default.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/header.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/navbar.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/includes/sidebar.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/about.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/articles.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/dev.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/index.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/news.shtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBurundukSchoolSite/pages/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/navbar.inc" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/navbar.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/articles/stih_pro_moscova.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/articles/stih_pro_moscova.shtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/head_default.inc" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/head_default.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/sidebar.inc" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/includes/sidebar.inc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/about.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/about.shtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/articles.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/articles.shtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/dev.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/dev.shtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/index.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/index.shtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/news.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/news.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicBurundukSchoolSite/pages/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ssi_includer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ssi_includer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +70,9 @@
       <recent name="C:\Kirill\Програмирование\HTML\BurundukSchoolSite\public_site" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Kirill\Програмирование\HTML\BurundukSchoolSite\CodeBurundukSchoolSite\pages" />
+      <recent name="C:\Kirill\Програмирование\HTML\BurundukSchoolSite\CodeBurundukSchoolSite\includes" />
+      <recent name="C:\Kirill\Програмирование\HTML\BurundukSchoolSite\CodeBurundukSchoolSite" />
       <recent name="C:\Kirill\Програмирование\HTML\BurundukSchoolSite" />
     </key>
   </component>

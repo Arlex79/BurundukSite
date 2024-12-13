@@ -1,9 +1,10 @@
 <div id="sidebar">
-    <ul class="menu">
-        <li><a href="./index.shtml">Главная</a></li>
-        <li><a href="./news.shtml">Новости</a></li>
-        <li><a href="./articles.shtml">Статьи</a></li>
-        <li><a href="./about.shtml">О сайте</a></li>
-        <li><a href="./dev.shtml">О разроботчиках</a></li>
-    </ul>
+<ul class="menu">
+    <lh>Главное:</lh>
+    <li><a href="../pages/index.shtml">Главная</a></li>
+    <li><a href="../pages/news.shtml">Новости</a></li>
+    <li><a href="../pages/articles.shtml">Статьи</a></li>
+    <li><a href="../pages/about.shtml">О сайте</a></li>
+    <li><a href="../pages/dev.shtml">О&nbsp;разроботчиках</a></li>
+</ul>
 </div>
