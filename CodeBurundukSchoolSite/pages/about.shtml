@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--#include file="includes/head_default.inc" -->
+    <title>О сайте</title>
+</head>
+<body>
+<div id="page">
+    <!--#include file="includes/header.inc" -->
+    <!--#include file="includes/navbar.inc" -->
+    <!--#include file="includes/sidebar.inc" -->
+    <div id="content">
+        <h2>О сайте "Неофициальный сайт школы Бурундук"</h2>
+        <p>Сайт принадлежит Фридриху Кириллу.</p>
+    </div>
+    <!--#include file="includes/footer.inc" -->
+</div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--#include file="includes/head_default.inc" -->
+    <title>lol</title>
+</head>
+<body>
+<div id="page">
+    <!--#include file="includes/header.inc" -->
+    <!--#include file="includes/sidebar.inc" -->
+    <div id="content">
+        <h2>Стих про Рому Москова</h2>
+
+
+    </div>
+    <!--#include file="includes/footer.inc" -->
+</div>
+</body>
+</html>
