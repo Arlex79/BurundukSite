@@ -6,9 +6,9 @@
 </head>
 <body>
 <div id="page">
-    <!--#include virtual="/includes/header.inc" -->
-    <!--#include virtual="/includes/navbar.inc" -->
-    <!--#include virtual="/includes/sidebar.inc" -->
+    <!--# include virtual="/includes/header.inc" -->
+    <!--# include virtual="/includes/navbar.inc" -->
+    <!--# include virtual="/includes/sidebar.inc" -->
 
     <div id="content">
         !!)E)D)(###R
