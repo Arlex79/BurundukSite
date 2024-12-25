@@ -1,1 +1,4 @@
-<header><h1>Школа Бурундук</h1></header>
+<header>
+<img src='/img/logo.png' width=40px alt='logo'>
+Неофициальный сайт школы "Бурундук"
+</header>

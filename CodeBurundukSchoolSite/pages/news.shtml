@@ -2,7 +2,7 @@
 <html>
 <head>
     <!--#include file="includes/head_default.inc" -->
-    <title>Main</title>
+    <title>Новости</title>
 </head>
 <body>
 <div id="page">
@@ -14,6 +14,8 @@
         <dl>
             <dt>3.12.2024</dt>
             <dd>Масков избил Рому Сурикова</dd>
+            <dt>9.11.2024</dt>
+            <dd>Этот сайт создан</dd>
 
         </dl>
 

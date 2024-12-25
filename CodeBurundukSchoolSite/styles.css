@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', 'Verdana', sans-serif;
-    font-size: 110%;
+    font-size: 1.1em;
     color: #FFF;
     background-color: #1F2733;
     background-image: url('bg_hexagon.png');
@@ -10,11 +10,8 @@ body {
     background: #151B23;
     }
 
-header h1 {margin: 1px}
-footer p {margin: 1px}
-
 #navigation {
-    font-size: 130%;
+    font-size: 1.3em;
     }
 #navigation a {
     padding: 5px;
@@ -31,6 +28,8 @@ header, #sidebar, #content,footer, nav{
     border-radius: 6px;
     border: 1px solid #3d444d;
     }
+
+header {font-size: 1.5em}
 
 a {
     color: #DDDDDD;
@@ -75,7 +74,7 @@ header, #sidebar, #content, footer, #navigation {
 #content {
     margin-left: 31%;
     margin-bottom: 1%;
-    min-height: 150px
+    min-height: 200px
 
    }
 footer {

@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!--#include file="includes/head_default.inc" -->
+    <!--#include virtual="/includes/head_default.inc" -->
     <title>Main</title>
 </head>
 <body>
 <div id="page">
-    <!--#include file="includes/header.inc" -->
-    <!--#include file="includes/navbar.inc" -->
-    <!--#include file="includes/sidebar.inc" -->
+    <!--#include virtual="/includes/header.inc" -->
+    <!--#include virtual="/includes/navbar.inc" -->
+    <!--#include virtual="/includes/sidebar.inc" -->
 
     <div id="content">
-        <h2>Неофициальный сайт школы "Бурундук"</h2>
-        <p>Добро пожаловать!</p>
-        <p>...</p>
+        !!)E)D)(###R
+
+        <address></address>
     </div>
-    <!--#include file="includes/footer.inc" -->
+    <!--#include virtual="/includes/footer.inc" -->
 </div>
 </body>
 </html>
