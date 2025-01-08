@@ -1,16 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!--#include file="includes/head_default.inc" -->
-    <title>Новости</title>
+    <script src="/ssi_alternative.js"></script>
+    <meta name="description" content="Неофициальный сайт о школе Бурундук">
+    <meta name=”robots” content=”index,follow”/>
+    <meta name="author" content="Кирилл Фридрих / Kirill Fridrih">
+    <link rel="stylesheet" type="text/css" href="..\styles.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="refresh" content="30">
+    <title></title>
 </head>
 <body>
+
 <div id="page">
-    <!--#include file="includes/header.inc" -->
-    <!--#include file="includes/navbar.inc" -->
-    <!--#include file="includes/sidebar.inc" -->
+    <div w3-include-html="/includes/header.inc"></div>
+    <div w3-include-html="/includes/navbar.inc"></div>
+    <div w3-include-html="/includes/sidebar.inc"></div>
+
     <div id="content">
-        <h2>Новости сайта</h2>
+<h2>Новости сайта</h2>
         <dl>
             <dt>3.12.2024</dt>
             <dd>Масков избил Рому Сурикова</dd>
@@ -18,9 +26,12 @@
             <dd>Этот сайт создан</dd>
 
         </dl>
-
     </div>
-    <!--#include file="includes/footer.inc" -->
+    <div w3-include-html="/includes/footer.inc"></div>
 </div>
+<script>
+    includeHTML();
+</script>
 </body>
 </html>
+
